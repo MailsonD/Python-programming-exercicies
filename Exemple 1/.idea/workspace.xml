@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89196f24-a6fc-40a9-8ee9-7b9f04caaad8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exemple 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/bin/python3.6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/include/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/lib64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exemple 1/venv/pyvenv.cfg" beforeDir="false" />
-    </list>
+    <list default="true" id="89196f24-a6fc-40a9-8ee9-7b9f04caaad8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,16 +260,15 @@
       <option name="presentableId" value="Default" />
       <updated>1556835151299</updated>
       <workItem from="1556835159678" duration="2074000" />
-      <workItem from="1556837274059" duration="636000" />
+      <workItem from="1556837274059" duration="875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2710000" />
+    <option name="totallyTimeSpent" value="2949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="40" width="1400" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
